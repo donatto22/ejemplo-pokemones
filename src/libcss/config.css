@@ -1,0 +1,5 @@
+@import url('./normalize.css');
+
+:root {
+    --red: rgb(251, 104, 104);
+}
